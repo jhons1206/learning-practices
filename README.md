@@ -7,4 +7,5 @@
 * Backgrounds
 * Images
 * Hover Effects
+* Frameworks
 * Others
